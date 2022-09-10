@@ -1,4 +1,4 @@
-# Computer-Literacy-Quiz
+# Computer-iteracy-quiz
 A fun quiz for my NCEA Level 3 English Seminar, where I discussed the issues surrounding the current computer literacy gap. I made this to involve and engage my classmates in my seminar and give them an idea about the things involved in being computer literate.
 
 # Decription
